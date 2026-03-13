@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Auvexis/static/css/main.5eee4c46.css",
-    "main.js": "/Auvexis/static/js/main.f310883f.js",
+    "main.js": "/Auvexis/static/js/main.dfd3066c.js",
     "index.html": "/Auvexis/index.html",
     "main.5eee4c46.css.map": "/Auvexis/static/css/main.5eee4c46.css.map",
-    "main.f310883f.js.map": "/Auvexis/static/js/main.f310883f.js.map"
+    "main.dfd3066c.js.map": "/Auvexis/static/js/main.dfd3066c.js.map"
   },
   "entrypoints": [
     "static/css/main.5eee4c46.css",
-    "static/js/main.f310883f.js"
+    "static/js/main.dfd3066c.js"
   ]
 }
