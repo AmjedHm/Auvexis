@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Auvexis/static/css/main.5eee4c46.css",
+    "main.js": "/Auvexis/static/js/main.f310883f.js",
+    "index.html": "/Auvexis/index.html",
+    "main.5eee4c46.css.map": "/Auvexis/static/css/main.5eee4c46.css.map",
+    "main.f310883f.js.map": "/Auvexis/static/js/main.f310883f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eee4c46.css",
+    "static/js/main.f310883f.js"
+  ]
+}
