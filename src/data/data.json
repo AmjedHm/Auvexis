@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "Autonomous Robotics ",
+    "paragraph": "Autonomous systems designed for efficiency, innovation, and real-world results."
+  },
+  "About": {
+    "paragraph": "AUVEXIS is a robotics technology company focused on developing intelligent autonomous systems for modern industries. Our mission is to improve efficiency and productivity through advanced robotics, artificial intelligence, and smart automation solutions.",
+    "Why": [
+      "Proven Expertise",
+      "Real-World Deployments",
+      "Scalable Solutions", 
+      "Cutting-Edge Technology"
+    ],
+    "Why2": [
+      "Innovation-Driven",
+      "Reliable Performance",
+      "Enhanced Efficiency",
+      "Sustainable Operations"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-android",
+      "name": "Autonomous Delivery Robots",
+      "text": "Efficiently transport goods in hotels, warehouses, and smart facilities, reducing human labor."
+    },
+    {
+      "icon": "fa fa-compass",
+      "name": "Intelligent Navigation Systems",
+      "text": "Advanced AI-driven path planning and obstacle avoidance for  reliable autonomous operations."
+    },
+
+    
+    {
+      "icon": "fa fa-medkit",
+      "name": "Robotics for Hospitality",
+      "text": "Service robots designed to assist guests, manage room deliveries, and enhance the guest experience."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "Warehouse Automation",
+      "text": "Streamlined logistics with autonomous picking, sorting, and material handling systems."
+    },
+    {
+      "icon": "fa fa-sitemap",
+      "name": "Smart Infrastructure Integration",
+      "text": "Seamless connection of robots with IoT, building management, and AI monitoring systems."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Maintenance & Support",
+      "text": "Comprehensive deployment, technical support, and system updates for reliable 24/7 operations."
+    }
+  ],
+"Gallery": [
+  {
+    "title": "SERBOT",
+    "description": "Serbot is a cutting-edge waiter robot standing 150 cm tall and weighing 45 kg. It features a 12-hour battery life, a 15 kg loading capacity, and smart navigation powered by LiDAR and AI technology. Equipped with a 10.1\" touch LCD display, Serbot interacts naturally with customers, delivers items efficiently, and provides assistance in restaurants, hotels, and events. Designed for smooth and engaging service, Serbot combines functionality with a friendly and approachable presence.",
+    "video": "https://www.youtube.com/embed/TodN78f-W_E"
+  }
+],
+  
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Chawki Gharsellaoui",
+      "job": ""
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Amjed Hmercha",
+      "job": ""
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Wael Hichri",
+      "job": ""
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Kabil Mbarki",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "Mahdia, Tunisia - 5100",
+    "phone": "+216 21 897 583 ",
+    "email": "AuvexisRobotics@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=61580907212963",
+    "linkedin": "https://www.linkedin.com/in/auvexis-tn-39b89b3b3/",
+    "instagram": "https://www.instagram.com/auvexis_tn?igsh=OHhodDd0aDlhNGxz"
+  }
+  
+}

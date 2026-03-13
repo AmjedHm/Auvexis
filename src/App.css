@@ -1,0 +1,53 @@
+/* ===================== NAVIGATION / LOGO ===================== */
+
+/* Logo size */
+.nav-logo {
+  height: 40px;       /* make it same height as navbar links, adjust as needed */
+  width: auto;        /* keep aspect ratio */
+  display: block;
+}
+
+/* Logo link floats left inside navbar-header (Bootstrap 3) */
+.logo-link {
+  float: left;
+  padding: 0 15px;   /* space from edge */
+  display: flex;
+  align-items: center; /* vertical alignment */
+}
+
+/* Align toggle button and logo vertically */
+.navbar-header {
+  display: flex;
+  align-items: center;
+}
+
+/* Navbar links spacing */
+.navbar-nav > li > a {
+  padding: 15px 10px;
+  font-size: 16px;    /* adjust font size if needed */
+}
+
+/* ===================== MOBILE RESPONSIVE ===================== */
+@media screen and (max-width: 400px) {
+  .nav-logo {
+    height: 35px; /* slightly smaller logo on mobile */
+  }
+
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
