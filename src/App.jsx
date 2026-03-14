@@ -24,10 +24,6 @@ const App = () => {
   useEffect(() => {
     setLandingPageData(JsonData);
 
-    // Redirect to root URL on reload
-    if (window.location.href !== "http://localhost:3000/") {
-      window.location.href = "http://localhost:3000/";
-    }
   }, []);
 
   return (
