@@ -181,7 +181,7 @@ export const Contact = (props) => {
       {/* Footer */}
       <div id="footer">
         <div className="container text-center">
-          <p>© 2026 AUVEXIS Robotics — Autonomous Systems for Modern Industries</p>
+          <p>© 2026 AUVEXIS Robotics</p>
         </div>
       </div>
 
